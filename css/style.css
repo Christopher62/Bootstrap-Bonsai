@@ -1,0 +1,197 @@
+.navbar a{
+  color: #FFF;
+}
+#libonsai{
+  color: #FFF;
+  text-transform: uppercase;
+  margin-left: -20px;
+}
+#image{
+  background-image: url("../images/payments-banner-graphic.png");
+}
+#title{
+  margin-top: 150px;
+  color:#FFF;
+  text-align: center;
+}
+#subtitle{
+  margin-top: 10px;
+  color:#FFF;
+  text-align: center;
+}
+#input{
+  margin-top: 20px;
+  margin-bottom: 200px;
+}
+#iconemsg{
+  border-radius: 50%;
+  background-color:purple;
+  color: #FFF;
+  margin-top: -10px;
+  margin-left: 25px;
+  position: fixed;
+  z-index: 100;
+}
+#imgcalendar{
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+#imgmail{
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+#imgcard{
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+h2{
+  margin-bottom: 15px;
+}
+p{
+  margin-bottom: 25px;
+}
+#divrow{
+  background-color: rgb(222, 252, 247);
+}
+.rowdiv{
+  text-align: center;
+  color: grey;
+  margin-bottom: 0;
+  padding-top: 50px;
+  font-size: 18px;
+}
+#rowdiv2{
+  text-align: center;
+  color: grey;
+  margin-top: 4px;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
+#span1{
+  color: purple;
+  font-size : 40px;
+
+}
+#span2{
+  font-size: 25px;
+
+}
+#span3{
+  display:inline-block;
+  color: grey;
+  padding-bottom: 34px;
+}
+#divgrise{
+  background-color: grey;
+  color: #FFF;
+  font-size: 25px;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+#divgrise p{
+  margin: 0;
+  padding: 0;
+}
+#imgbleue{
+  background-color: rgb(57, 232, 227);
+  padding-top: 60px;
+  height:510px;
+  overflow: hidden;
+}
+.img-responsive{
+  padding-top: 60px;
+  height:570px;
+  overflow: hidden;
+}
+#para1 h1{
+  color : #444;
+  text-align: justify;
+  padding-top: 10%;
+  padding-left: 16%;
+}
+#para1 p{
+  margin: 0;
+  padding: 0;
+  color: grey;
+  text-align: justify;
+  padding-top: 4%;
+  padding-left: 16%;
+}
+#imgviolette{
+  background-color: rgb(162, 51, 138);
+  padding-top: 60px;
+  height:510px;
+  overflow: hidden;
+}
+#para2 h1{
+  color : #444;
+  text-align: justify;
+  padding-top: 10%;
+  padding-left: 10%;
+}
+#para2 p{
+  margin: 0;
+  padding: 0;
+  color: grey;
+  text-align: justify;
+  padding-top: 4%;
+  padding-left: 10%;
+}
+#imgbleue2{
+  background-color: rgb(57, 232, 227);
+  padding-top: 60px;
+  height:510px;
+  overflow: hidden;
+}
+#para3{
+  padding-bottom: 340px;
+}
+#para3 h1{
+  color : #444;
+  text-align: justify;
+  padding-top: 10%;
+  padding-left: 16%;
+}
+#para3 p{
+  margin: 0;
+  padding: 0;
+  color: grey;
+  text-align: justify;
+  padding-top: 4%;
+  padding-left: 16%;
+}
+#font1, #font2, #font3{
+  font-style: italic;
+}
+#font4{
+  font-weight: bold;
+}
+#divblanche{
+  font-size: 20px;
+  padding: 5%;
+}
+#divblanche p{
+  margin: 0;
+  padding: 0;
+}
+#input2{
+  font-size: 15px;
+  margin-top: 20px;
+  background-color: rgba(17, 196, 8, 0.77);
+  color: #FFF;
+}
+#lien{
+  background-color: rgb(97, 97, 97);
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.blanc{
+  color : #FFF;
+}
+#font5, #font6{
+  color : #FFF;
+}
+#imgfooter{
+  margin-left: -300px;
+  overflow: hidden;
+}
